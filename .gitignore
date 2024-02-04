@@ -1,0 +1,6 @@
+.venv_pygeo/
+data/
+data_pyg/
+output/
+.ipynb_checkpoints/
+.DS_Store

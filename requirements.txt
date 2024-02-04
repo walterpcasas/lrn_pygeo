@@ -1,0 +1,14 @@
+# Generic requirements
+numpy
+pandas
+pyarrow # required by pandas last version
+matplotlib
+seaborn
+scipy
+scikit-learn
+tqdm
+
+# Geo requirements
+shapely
+geopandas
+rtree
