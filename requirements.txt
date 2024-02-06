@@ -12,3 +12,6 @@ tqdm
 shapely
 geopandas
 rtree
+geopy
+contextily
+mapclassify
