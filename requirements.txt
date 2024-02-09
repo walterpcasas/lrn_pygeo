@@ -15,3 +15,5 @@ rtree
 geopy
 contextily
 mapclassify
+osmnx
+pysal
